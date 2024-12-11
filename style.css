@@ -227,6 +227,7 @@
 .container3-images img {
   height: 100%;
   width: 100%;
+  border-radius: 10px;
 }
 
 .scale .text1 {
@@ -1267,7 +1268,7 @@
   }
 
   .container3 {
-    height: 140vh;
+    height: 100vh;
   }
 
   .child-container3 {
@@ -1287,7 +1288,7 @@
   }
 
   .container4 {
-    height: 125vh;
+    height: 100vh;
   }
 
   .child-container4 {
